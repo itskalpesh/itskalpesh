@@ -7,17 +7,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techno-kalpesh&label=Profile%20views&color=0e75b6&style=flat" alt="techno-kalpesh" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
+## About Me
+I'm a BCA student passionate about building applications and solving problems with code.  
+Currently learning **Java, Python, SQL, Web Development**, and working on **full-stack projects**.  
+I believe in writing code with dedication and purpose — Code with Karma.
 
-- 🌱 I’m currently learning <br>**C • Java • SQL • Android Development**
-- 👯 I’m looking to collaborate on **Android app development projects and open-source contributions.**
-
-- 👨‍💻 All of my projects are available at [myportfolio](https://itskalpesh.github.io/myportfolio/)
-
-- 💬 Ask me about **Java, C, SQL & problem solving**
-
-- 📫 How to reach me **technokalpesh2003@gmail.com**
-
-- 📄 Know about my experiences [myportfolio](https://itskalpesh.github.io/myportfolio/)
+## Skills
+- **Languages:** Java, Python, C, R  
+- **Frontend:** HTML, CSS, JavaScript, React (learning)  
+- **Backend:** Java (Spring Boot), Python (Flask/Django)  
+- **Database:** MySQL, PostgreSQL  
+- **Tools:** Git, GitHub, VS Code, Linux  
+- **Other:** Data Analysis, OS concepts
+- 
+## Connect With Me
+- 
+- [LinkedIn](https://www.linkedin.com/in/kalpesh-kurbetti)  
+- [Instagram](https://www.instagram.com/its.kalpesh_03)  
+- Portfolio: [myportfolio](https://itskalpesh.github.io/myportfolio/)  
+- Email: technokalpesh2003@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
