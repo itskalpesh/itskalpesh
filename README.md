@@ -53,12 +53,12 @@ I believe in writing code with dedication and purpose — Code with Karma.
 [![Portfolio](https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://itskalpesh.github.io/myportfolio/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technokalpesh2003@gmail.com)
 
-<div align="center">
+## GitHub Stats
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itskalpesh&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="350"/>
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=itskalpesh&show_icons=true&locale=en" alt="GitHub Stats" width="500"/>
-
-</div>
+<!-- GitHub Stats Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Followers-0-blue?style=flat-square&logo=github" alt="Followers">
+  <img src="https://img.shields.io/badge/Stars-0-yellow?style=flat-square&logo=github" alt="Stars">
+  <img src="https://img.shields.io/badge/Repos-0-green?style=flat-square&logo=github" alt="Repositories">
+  <img src="https://img.shields.io/badge/Most_Used_Language-Python-orange?style=flat-square&logo=python" alt="Top Language">
+</p>
