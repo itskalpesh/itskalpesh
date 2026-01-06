@@ -59,7 +59,7 @@ I believe in writing code with dedication and purpose — Code with Karma.
 ## GitHub Stats
 
 <!-- GitHub Stats Badges -->
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Followers-0-blue?style=flat-square&logo=github" alt="Followers">
   <img src="https://img.shields.io/badge/Stars-0-yellow?style=flat-square&logo=github" alt="Stars">
   <img src="https://img.shields.io/badge/Repos-0-green?style=flat-square&logo=github" alt="Repositories">
