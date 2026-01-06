@@ -44,9 +44,7 @@ I believe in writing code with dedication and purpose — Code with Karma.
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="20" height="20"/> 
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="20" height="20"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="20" height="20"/> 
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="20" height="20"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="Data Analysis" width="20" height="20"/> 
-  OS concepts
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="20" height="20"/>
   
 ## Connect With Me
 
@@ -55,6 +53,12 @@ I believe in writing code with dedication and purpose — Code with Karma.
 [![Portfolio](https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://itskalpesh.github.io/myportfolio/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technokalpesh2003@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itskalpesh&show_icons=true&locale=en&layout=compact" alt="itskalpesh" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itskalpesh&show_icons=true&locale=en" alt="itskalpesh" /></p>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itskalpesh&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="350"/>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=itskalpesh&show_icons=true&locale=en" alt="GitHub Stats" width="500"/>
+
+</div>
