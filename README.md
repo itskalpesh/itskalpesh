@@ -49,6 +49,7 @@ I believe in writing code with dedication and purpose — Code with Karma.
 ## Connect With Me
 
 <p align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpesh-kurbetti) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its.kalpesh_03) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://itskalpesh.github.io/myportfolio/) 
