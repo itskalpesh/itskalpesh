@@ -45,6 +45,7 @@ I believe in writing code with dedication and purpose — Code with Karma.
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="20" height="20"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="20" height="20"/> 
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="20" height="20"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/CorelDRAW_logo.svg" alt="CorelDRAW" width="20" height="20"/>
   
 ## Connect With Me
 
