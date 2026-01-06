@@ -14,14 +14,6 @@ Currently learning **Java, Python, SQL, Web Development**, and working on **full
 I believe in writing code with dedication and purpose — Code with Karma.
 
 ## Skills
-- **Languages:** Java, Python, C, R  
-- **Frontend:** HTML, CSS, JavaScript, React (learning)  
-- **Backend:** Java (Spring Boot), Python (Flask/Django)  
-- **Database:** MySQL, PostgreSQL  
-- **Tools:** Git, GitHub, VS Code, Linux  
-- **Other:** Data Analysis, OS concepts
-
-## Skills
 - **Languages:** 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> 
@@ -51,9 +43,9 @@ I believe in writing code with dedication and purpose — Code with Karma.
 - **Other:** 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="20" height="20"/> 
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="20" height="20"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="20" height="20"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="20" height="20"/> 
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="20" height="20"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/data-analytics/data-analytics-original.svg" alt="Data Analysis" width="20" height="20"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="Data Analysis" width="20" height="20"/> 
   OS concepts
   
 ## Connect With Me
