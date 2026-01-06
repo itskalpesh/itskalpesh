@@ -20,7 +20,7 @@ I believe in writing code with dedication and purpose — Code with Karma.
 - **Database:** MySQL, PostgreSQL  
 - **Tools:** Git, GitHub, VS Code, Linux  
 - **Other:** Data Analysis, OS concepts
-  
+
 ## Skills
 - **Languages:** 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java, 
@@ -31,7 +31,7 @@ I believe in writing code with dedication and purpose — Code with Karma.
 - **Frontend:** 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" height="20"/> HTML, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" height="20"/> CSS, 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="20" height="20"/> JavaScript, 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20"/> React (learning)
 
 - **Backend:** 
@@ -49,7 +49,12 @@ I believe in writing code with dedication and purpose — Code with Karma.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="20" height="20"/> Linux
 
 - **Other:** 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/data-analytics/data-analytics-original.svg" alt="Data Analysis" width="20" height="20"/> Data Analysis, OS concepts
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="20" height="20"/> Arduino, 
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="20" height="20"/> Blender, 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="20" height="20"/> Photoshop, 
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="20" height="20"/> Illustrator, 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/data-analytics/data-analytics-original.svg" alt="Data Analysis" width="20" height="20"/> Data Analysis, 
+  OS concepts
   
 ## Connect With Me
 
