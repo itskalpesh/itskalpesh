@@ -1,1 +1,0 @@
-readme required imgs
