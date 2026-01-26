@@ -6,7 +6,13 @@
 ☘️ Learn • Build • Grow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techno-kalpesh&label=Profile%20views&color=0e75b6&style=flat" alt="techno-kalpesh" /> </p>
-<img align="right" width="380" src="./assets/coder.gif" />
+<img
+  align="right"
+  src="./assets/coder.gif"
+  width="320"
+  style="margin-top: 40px;"
+  alt="Coder"
+/>
 
 ## About Me
 I'm a BCA student passionate about building applications and solving problems with code.  
