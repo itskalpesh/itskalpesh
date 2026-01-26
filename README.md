@@ -6,7 +6,7 @@
 ☘️ Learn • Build • Grow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techno-kalpesh&label=Profile%20views&color=0e75b6&style=flat" alt="techno-kalpesh" /> </p>
-<p align="right">
+<p align="center">
   <img src="./assets/coder.gif" width="260" />
 </p>
 
