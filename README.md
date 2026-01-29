@@ -4,7 +4,7 @@
 <h1 align="left">Hi 👋, I'm Kalpesh Kurbetti</h1>
 🎓 <b>BCA Student </b><br> 
 💻 Aspiring Full-Stack Software Developer <br>
-    Focused on learning software system, backrnd and web technologies.
+    Focused on learning software system, backrnd and web technologies.<br>
 ☘️ Learn • Build • Grow <br><br>
  
 This GitHub represents my **learning journey**. <br>
