@@ -2,13 +2,12 @@
 [![MasterHead](https://files.catbox.moe/68fnxu.jpg)](#)
 
 <h1 align="left">Hi 👋, I'm Kalpesh Kurbetti</h1>
-🎓 **BCA Student**  
-🚀 Learning software development step by step  
-🛠️ Building small projects while understanding fundamentals  
+🎓 **BCA Student** <br><br>
+🚀 Learning software development step by step <br><br> 
+🛠️ Building small projects while understanding fundamentals <br><br>
 
-This GitHub represents my **learning journey**.  
-All repositories here are part of practice, experiments,  
-and long-term learning projects.
+This GitHub represents my **learning journey**. <br><br> 
+All repositories here are part of practice, experiments and long-term learning projects.
 
 ☘️ Learn • Build • Grow
 
