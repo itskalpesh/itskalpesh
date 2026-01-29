@@ -1,22 +1,28 @@
 [![MasterHead](https://files.catbox.moe/68fnxu.jpg)](#)
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-<h1 align="left">Hi 👋, I'm Kalpesh Kurbetti</h1>
+### Hi 👋, I'm Kalpesh Kurbetti
 
-<h3 align="left">
-🎓 BCA Student <br>
-🚀 Learning software development step by step <br>
-🛠️ Building small projects while understanding fundamentals <br><br>
+🎓 **BCA Student**  
+🚀 Learning software development step by step  
+🛠️ Building small projects while understanding fundamentals  
 
-This GitHub represents my <b>learning journey</b>.  
+This GitHub represents my **learning journey**.  
 All repositories here are part of practice, experiments,  
-and long-term learning projects. <br><br>
+and long-term learning projects.
 
 ☘️ Learn • Build • Grow
-</h3>
 
-<p align="left">
-  <img src="./assets/coder.gif" width="260" />
-</p>
+  </td>
+  <td width="40%" align="right">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+
+  </td>
+  </tr>
+</table>
 
 ---
 
