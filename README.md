@@ -2,8 +2,8 @@
 [![MasterHead](https://files.catbox.moe/68fnxu.jpg)](#)
 
 <h1 align="left">Hi 👋, I'm Kalpesh Kurbetti</h1>
-🎓 **BCA Student** <br><br>
-🚀 Learning software development step by step <br><br> 
+🎓 **BCA Student** <br>
+🚀 Learning software development step by step <br>
 🛠️ Building small projects while understanding fundamentals <br><br>
 
 This GitHub represents my **learning journey**. <br><br> 
