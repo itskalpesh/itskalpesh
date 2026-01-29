@@ -1,7 +1,9 @@
 [![MasterHead](https://files.catbox.moe/68fnxu.jpg)](#)
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  width="260" 
+  align="right" 
+/>
 
 ### Hi 👋, I'm Kalpesh Kurbetti
 
@@ -14,15 +16,6 @@ All repositories here are part of practice, experiments,
 and long-term learning projects.
 
 ☘️ Learn • Build • Grow
-
-  </td>
-  <td width="40%" align="right">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
-
-  </td>
-  </tr>
-</table>
 
 ---
 
