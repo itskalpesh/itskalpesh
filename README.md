@@ -2,7 +2,7 @@
 [![MasterHead](https://files.catbox.moe/68fnxu.jpg)](#)
 
 <h1 align="left">Hi 👋, I'm Kalpesh Kurbetti</h1>
-🎓 **BCA Student**  <br>
+🎓 **BCA Student** 
 🚀 Learning software development step by step <br>
 🛠️ Building small projects while understanding fundamentals <br><br>
  
