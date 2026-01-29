@@ -1,8 +1,13 @@
 [![MasterHead](https://files.catbox.moe/68fnxu.jpg)](https://rishavchanda.io)
 </a>
 <h1 align="left">Hi 👋, I'm Kalpesh Kurbetti</h1>
-<h3 align="left">💻 BCA Student | Full-Stack Developer<br>
-🕉️ Code with Karma<br>
+<h3 align="left">🎓 BCA Student  
+🚀 Learning software development step by step  
+🛠️ Building small projects while understanding fundamentals  
+
+This GitHub represents my **learning journey**.
+All repositories are part of practice, experiments,
+and long-term learning projects<br><br>
 ☘️ Learn • Build • Grow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techno-kalpesh&label=Profile%20views&color=0e75b6&style=flat" alt="techno-kalpesh" /> </p>
