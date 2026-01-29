@@ -4,6 +4,7 @@
 <h1 align="left">Hi 👋, I'm Kalpesh Kurbetti</h1>
 🎓 <b>BCA Student </b><br> 
 💻 Aspiring Full-Stack Software Developer <br>
+    Focused on learning software system, backrnd and web technologies.
 ☘️ Learn • Build • Grow <br><br>
  
 This GitHub represents my **learning journey**. <br>
@@ -18,11 +19,9 @@ All repositories here are part of practice, experiments and long-term learning p
 
 ## 👨‍💻 About Me
 
-I’m a **BCA student** who is genuinely interested in learning how software devlopment, backend system and web technologies.
-I focus on **understanding core programming concepts**, system logic and how frontend and backend work together. 
-I build projects as part of my learing journey.
-I believe in learning by doing, making mistakes, and improving consistently —  
-**Code with Karma** 🌱
+I’m a **BCA student** who is genuinely interested in learning how software devlopment, backend system and web technologies work together. <br><br>
+I focused on **understanding core programming concepts**, system logic and how frontend and backend intract. <br><br>
+I build projects as part of my learing journey and  believe in learning by doing, making mistakes, and improving consistently.
 
 ---
 
