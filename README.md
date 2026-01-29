@@ -4,8 +4,9 @@
 <h1 align="left">Hi 👋, I'm Kalpesh Kurbetti</h1>
 🎓 <b>BCA Student </b><br> 
 💻 Aspiring Full-Stack Software Developer <br>
-    Focused on learning software system, backrnd and web technologies.<br>
-☘️ Learn • Build • Grow <br><br>
+☘️ Learn • Build • Grow <br>
+Focused on learning software system, backrnd and web technologies.<br><br>
+
  
 This GitHub represents my **learning journey**. <br>
 All repositories here are part of practice, experiments and long-term learning projects.
