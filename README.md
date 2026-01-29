@@ -3,13 +3,11 @@
 
 <h1 align="left">Hi 👋, I'm Kalpesh Kurbetti</h1>
 🎓 <b>BCA Student </b><br> 
-🚀 Learning software development step by step <br>
-🛠️ Building small projects while understanding fundamentals <br><br>
+💻 Aspiring Full-Stack Software Developer <br>
+☘️ Learn • Build • Grow <br><br>
  
 This GitHub represents my **learning journey**. <br>
 All repositories here are part of practice, experiments and long-term learning projects.
-
-☘️ Learn • Build • Grow
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techno-kalpesh&label=Profile%20views&color=0e75b6&style=flat" alt="techno-kalpesh" /> </p>
 <p align="left">
@@ -20,9 +18,9 @@ All repositories here are part of practice, experiments and long-term learning p
 
 ## 👨‍💻 About Me
 
-I’m a **BCA student** who is genuinely interested in learning how software works under the hood.  
-I focus on **understanding fundamentals first**, then applying them through small projects.
-
+I’m a **BCA student** who is genuinely interested in learning how software devlopment, backend system and web technologies.
+I focus on **understanding core programming concepts**, system logic and how frontend and backend work together. 
+I build projects as part of my learing journey.
 I believe in learning by doing, making mistakes, and improving consistently —  
 **Code with Karma** 🌱
 
