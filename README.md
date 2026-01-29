@@ -15,12 +15,10 @@ and long-term learning projects.
 
 ☘️ Learn • Build • Grow
 
-<img 
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-  width="180" 
-  align="right"
-  hspace="20"
-/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=techno-kalpesh&label=Profile%20views&color=0e75b6&style=flat" alt="techno-kalpesh" /> </p>
+<p align="left">
+  <img src="./assets/coder.gif" width="260" />
+</p>
 
 ---
 
