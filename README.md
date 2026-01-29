@@ -1,5 +1,8 @@
 [![MasterHead](https://files.catbox.moe/68fnxu.jpg)](#)
 
+## Hi 👋, I'm Kalpesh Kurbetti
+
+---
 <img 
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
   width="240" 
@@ -7,8 +10,6 @@
   hspace="20"
 />
 
-## Hi 👋, I'm Kalpesh Kurbetti
----
 🎓 **BCA Student**  
 🚀 Learning software development step by step  
 🛠️ Building small projects while understanding fundamentals  
