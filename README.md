@@ -15,7 +15,7 @@ and long-term learning projects. <br><br>
 </h3>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+  <img src="./assets/coder.gif" width="260" />
 </p>
 
 ---
