@@ -4,12 +4,6 @@
 ## Hi 👋, I'm Kalpesh Kurbetti
 
 ---
-<img 
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-  width="240" 
-  align="right"
-  hspace="20"
-/>
 
 🎓 **BCA Student**  
 🚀 Learning software development step by step  
@@ -20,6 +14,13 @@ All repositories here are part of practice, experiments,
 and long-term learning projects.
 
 ☘️ Learn • Build • Grow
+
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  width="180" 
+  align="right"
+  hspace="20"
+/>
 
 ---
 
