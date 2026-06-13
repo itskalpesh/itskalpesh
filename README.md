@@ -10,11 +10,11 @@ Focused on learning software system, backrnd and web technologies.<br><br>
  
 This GitHub represents my **learning journey**. <br>
 All repositories here are part of practice, experiments and long-term learning projects.
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techno-kalpesh&label=Profile%20views&color=0e75b6&style=flat" alt="techno-kalpesh" /> </p>
 <p align="left">
   <img src="./assets/coder.gif" width="260" />
-</p>
+</p> -->
 
 ---
 
