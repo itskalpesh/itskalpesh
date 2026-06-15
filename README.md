@@ -6,8 +6,6 @@
 💻 Aspiring Full-Stack Software Developer <br>
 ☘️ Learn • Build • Grow <br>
 Focused on learning software system, backrnd and web technologies.<br><br>
-
- 
 This GitHub represents my **learning journey**. <br>
 All repositories here are part of practice, experiments and long-term learning projects.
 <!--
