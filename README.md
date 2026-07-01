@@ -52,7 +52,7 @@ I build projects as part of my learing journey and  believe in learning by doing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpesh-kurbetti)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its.kalpesh_03)
-[![Portfolio](https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://itskalpesh.github.io/myportfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://itskv-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technokalpesh2003@gmail.com)
 
 </p>
