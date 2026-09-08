@@ -1,67 +1,32 @@
 <div align="center">
-  <!-- Futuristic Banner -->
-  <img src="https://files.catbox.moe/68fnxu.jpg" width="100%" alt="Kalpesh Banner" />
+  <!-- GLITCH HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=SYSTEM%20OVERRIDE:%20KALPESH&fontSize=50&fontColor=00FF41&animation=twinkling" width="100%" />
 
   <br/>
 
-  <!-- 3D Isometric Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=200&section=header&text=KALPESH%20KURBETTI&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
-
-  <!-- Typing Sci-Fi Text -->
+  <!-- TERMINAL TYPING EFFECT -->
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=System.Initialize();+...;+Aspiring+Developer;+BCA+Student;+Learning+the+Future...;+Build+•+Grow+•+Repeat" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root@itskalpesh:~$+whoami;+Analyzing+BCA+Student+profile...;+Accessing+Full-Stack+Modules...;+Executing+Growth_Mindset.exe;+System+Status:+Online+and+Learning" alt="Typing SVG" />
   </h3>
 
+  <!-- 3D TROPHY ROOM -->
+  <img src="https://github-profile-trophy.vercel.app/?username=itskalpesh&theme=darkhub&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
+
   <p align="center">
-    <img src="https://img.shields.io/badge/Mainframe-Active-00FF41?style=for-the-badge&logo=target&logoColor=black" />
-    <img src="https://img.shields.io/badge/Security-Level_01-blueviolet?style=for-the-badge&logo=shield" />
+    <img src="https://img.shields.io/badge/OS-Kali_Linux-lightgrey?style=flat-square&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Network-Encrypted-00FF41?style=flat-square&logo=wireshark&logoColor=black" />
+    <img src="https://img.shields.io/badge/Uptime-99.9%25-blueviolet?style=flat-square" />
   </p>
 </div>
 
 ---
 
-### 📡 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9uJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1SAtp9C76q17o98Dk/giphy.gif" width="30"> System Profile: **USER_03**
+### 📂 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3U1bXlzbmE5bmF6NTVqZHR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/S6S0mBSfSREas/giphy.gif" width="25"> DIRECTORY: /home/itskalpesh/about_me
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <p><b>⚡ Status:</b> Exploring Backend Architectures</p>
-        <p><b>🧪 Current Project:</b> Full-Stack Experimentation</p>
-        <p><b>🧠 Core Logic:</b> Java, Python, SQL</p>
-        <p><b>🛰️ Location:</b> India</p>
-      </td>
-      <td>
-        <!-- Top Languages Stats -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itskalpesh&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="300px" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🛠 Tech Arsenal (3D Icons)
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,mysql,linux,git,vscode,figma,ps,ai&theme=dark&perline=6" />
-</div>
-
----
-
-### 📊 Tactical Data Visualization
-
-<div align="center">
-  <!-- Glowing Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=itskalpesh&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" height="180em" />
-  
-  <!-- Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskalpesh&theme=neon&hide_border=true&background=0D1117" height="180em" />
-</div>
-
-<br/>
-
-<!-- Interactive Snake Game - Contribution Graph -->
-<div align="center">
-  <p><b>Activity Stream (Neural Link)</b></p>
-  <img src="https://github-user-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=itskalpesh&grid_colors=%231a1b27,%237aa2f7,%23bb9af7,%23b4f9f8,%232ac3de&snake_colors=%2300e5ff,%23ffffff" al
+```yaml
+user: Kalpesh Kurbetti
+role: Aspiring Full-Stack Software Developer
+academic: BCA Student (Learning Software Systems)
+status: Building long-term learning projects
+focus: [Backend Systems, Web Technologies, Core Programming]
+location: India
