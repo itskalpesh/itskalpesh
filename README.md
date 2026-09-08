@@ -32,8 +32,8 @@
         <p><b>🛰️ Location:</b> India</p>
       </td>
       <td>
-        <!-- 3D Floating Avatar Effect (Using your banner or a placeholder) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techno-kalpesh&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="300px" />
+        <!-- Top Languages Stats -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itskalpesh&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="300px" />
       </td>
     </tr>
   </table>
@@ -53,10 +53,10 @@
 
 <div align="center">
   <!-- Glowing Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=techno-kalpesh&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itskalpesh&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" height="180em" />
   
-  <!-- Streak Card with Glassmorphism feel -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techno-kalpesh&theme=neon&hide_border=true&background=0D1117" height="180em" />
+  <!-- Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskalpesh&theme=neon&hide_border=true&background=0D1117" height="180em" />
 </div>
 
 <br/>
@@ -64,20 +64,4 @@
 <!-- Interactive Snake Game - Contribution Graph -->
 <div align="center">
   <p><b>Activity Stream (Neural Link)</b></p>
-  <img src="https://github-user-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=techno-kalpesh&grid_colors=%231a1b27,%237aa2f7,%23bb9af7,%23b4f9f8,%232ac3de&snake_colors=%2300e5ff,%23ffffff" alt="snake" />
-</div>
-
----
-
-### 🔗 Establish Connection
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/kalpesh-kurbetti">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://itskv-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
-  </a>
-  <a href="mailto:technokalpesh2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-th
+  <img src="https://github-user-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=itskalpesh&grid_colors=%231a1b27,%237aa2f7,%23bb9af7,%23b4f9f8,%232ac3de&snake_colors=%2300e5ff,%23ffffff" al
