@@ -1,67 +1,83 @@
+<div align="center">
+  <!-- Futuristic Banner -->
+  <img src="https://files.catbox.moe/68fnxu.jpg" width="100%" alt="Kalpesh Banner" />
 
-[![MasterHead](https://files.catbox.moe/68fnxu.jpg)](#)
+  <br/>
 
-<h1 align="left">Hi 👋, I'm Kalpesh Kurbetti</h1>
-🎓 <b>BCA Student </b><br> 
-💻 Aspiring Full-Stack Software Developer <br>
-☘️ Learn • Build • Grow <br>
-Focused on learning software system, backrnd and web technologies.<br><br>
-This GitHub represents my **learning journey**. <br>
-All repositories here are part of practice, experiments and long-term learning projects.
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techno-kalpesh&label=Profile%20views&color=0e75b6&style=flat" alt="techno-kalpesh" /> </p>
-<p align="left">
-  <img src="./assets/coder.gif" width="260" />
-</p> -->
+  <!-- 3D Isometric Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=200&section=header&text=KALPESH%20KURBETTI&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
----
+  <!-- Typing Sci-Fi Text -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=System.Initialize();+...;+Aspiring+Developer;+BCA+Student;+Learning+the+Future...;+Build+•+Grow+•+Repeat" alt="Typing SVG" />
+  </h3>
 
-## 👨‍💻 About Me
-
-I’m a **BCA student** who is genuinely interested in learning how software devlopment, backend system and web technologies work together. <br><br>
-I focused on **understanding core programming concepts**, system logic and how frontend and backend intract. <br><br>
-I build projects as part of my learing journey and  believe in learning by doing, making mistakes, and improving consistently.
+  <p align="center">
+    <img src="https://img.shields.io/badge/Mainframe-Active-00FF41?style=for-the-badge&logo=target&logoColor=black" />
+    <img src="https://img.shields.io/badge/Security-Level_01-blueviolet?style=for-the-badge&logo=shield" />
+  </p>
+</div>
 
 ---
 
-## 📚 Currently Learning
+### 📡 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9uJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1SAtp9C76q17o98Dk/giphy.gif" width="30"> System Profile: **USER_03**
 
-- Python (basics & practice)
-- HTML, CSS, JavaScript (fundamentals)
-- Java (college + basics)
-- SQL (basic queries)
-- Git & GitHub
-- Linux (basic usage)
-
-> ⚠️ Note: I am still learning. Skills listed here reflect what I am currently practicing.
-
----
-
-## 🛠️ Tools I Use While Learning
-
-- VS Code  
-- Git & GitHub  
-- Linux  
-- Basic design tools (Photoshop, Illustrator)
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpesh-kurbetti)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its.kalpesh_03)
-[![Portfolio](https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://itskv-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technokalpesh2003@gmail.com)
-
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <p><b>⚡ Status:</b> Exploring Backend Architectures</p>
+        <p><b>🧪 Current Project:</b> Full-Stack Experimentation</p>
+        <p><b>🧠 Core Logic:</b> Java, Python, SQL</p>
+        <p><b>🛰️ Location:</b> India</p>
+      </td>
+      <td>
+        <!-- 3D Floating Avatar Effect (Using your banner or a placeholder) -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techno-kalpesh&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="300px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 Tech Arsenal (3D Icons)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Learning_in_Progress-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Fundamentals-green?style=flat-square" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,mysql,linux,git,vscode,figma,ps,ai&theme=dark&perline=6" />
+</div>
+
+---
+
+### 📊 Tactical Data Visualization
+
+<div align="center">
+  <!-- Glowing Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=techno-kalpesh&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" height="180em" />
+  
+  <!-- Streak Card with Glassmorphism feel -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techno-kalpesh&theme=neon&hide_border=true&background=0D1117" height="180em" />
+</div>
+
+<br/>
+
+<!-- Interactive Snake Game - Contribution Graph -->
+<div align="center">
+  <p><b>Activity Stream (Neural Link)</b></p>
+  <img src="https://github-user-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=techno-kalpesh&grid_colors=%231a1b27,%237aa2f7,%23bb9af7,%23b4f9f8,%232ac3de&snake_colors=%2300e5ff,%23ffffff" alt="snake" />
+</div>
+
+---
+
+### 🔗 Establish Connection
+
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/kalpesh-kurbetti">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://itskv-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+  <a href="mailto:technokalpesh2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-th
